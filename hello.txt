@@ -1,2 +1,4 @@
 Hello Git
 Learning commits
+Learning git diff
+Another new change
