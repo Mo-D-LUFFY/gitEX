@@ -1,1 +1,4 @@
 notes.txt
+*.log
+build/
+tracked.txt
